@@ -1,0 +1,102 @@
+*{
+    font-size: 16px;
+}
+h1{
+    text-align: center;
+    color: mediumblue;
+
+}
+#size{
+    font-size: 150%;
+}
+a{
+    text-decoration: none;
+}
+#img{
+    width: 100%;
+}
+.img2{
+    border-radius: 5px solid;
+border-color: black;
+}
+nav{
+    margin: 0%;
+}
+#abt{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    line-height: 150%;
+}
+
+#description{
+    display:inline;
+    width: 50%;
+}
+h3{
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+.apply{
+    float: right;
+}
+h5{
+    margin-bottom: 16px;
+}
+#footer{
+    background-color:white;
+    padding: 8px;
+    margin-top: 22px;
+    text-align: center;
+    color:black;
+}
+#size2{
+     font-size: 150%;
+}
+#footer-links{
+    list-style: none;
+    text-align: center;
+}
+#footer-links li{
+    display: inline;
+    margin: 0  16px;
+}
+#jobs{
+max-width: 800px;
+margin: 0 auto;
+padding: 0 8px;
+background-color: whitesmoke;
+}
+#jobs-table{
+    width:100%
+}
+#application{
+    font-size: 150%;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 8px;
+
+}
+#application-form div{
+    margin: 5px;
+}
+#application-form label{
+    font-weight: 600;
+   
+
+}
+#application-form input,select,textarea{
+    padding: 4px;
+    font-size: 1,25rem;
+    margin-top: 4px;
+    border-radius: 5px;
+    border: 1px solid:gray; 
+}
+.form-group textarea{
+    width: 80%;
+    font-family: 'Roboto',Arial, Helvetica, sans-serif;
+}
+.form-group input [type="checkbox"] {
+    width: 16px;
+    height: 16px;
+    background-color: gray;
+    color: grey;
+}
